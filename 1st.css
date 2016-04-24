@@ -1,0 +1,34 @@
+body{
+    margin: 0 auto;
+    align-self: center;
+    
+    background-image: url(bg.jpg);
+    width:800px;
+}
+li{
+    width:74px;
+    display:inline-block;
+}
+div{
+    display:inline-block;
+}
+.sidebar{
+    background-color: #00FFFF; 
+	opacity: 0.5;
+    float: left;
+    width: 300px;
+    
+}
+.main{
+    background-color: #00FFFF;
+	opacity: 0.5;
+    float: right;
+    width: 500px;
+    display:inline-block;
+}
+.navigation{
+	opacity: 0.5;
+    width: 800px;
+    background-color: #00CCFF;
+    }
+	
